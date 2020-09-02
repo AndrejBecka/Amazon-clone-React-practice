@@ -23,7 +23,7 @@ function Product({ id, title, image, price, rating }) {
             <img src={image} alt="" />       
             <button>Add to basket</button>    
         </div>
-    )
+    );
 }
 
 export default Product
